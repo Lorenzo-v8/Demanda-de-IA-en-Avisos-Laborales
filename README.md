@@ -93,7 +93,7 @@ Python · pandas · NumPy · matplotlib
 
 ## Licencia y atribución
 
-Los datos pertenecen a **Datamata Studios** y se publican bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Si republicás gráficos o resultados, mantené la atribución:
+Los datos pertenecen a **Datamata Studios** y se publican bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 > Datamata Studios. "Datamata AI Requirements Index." https://www.datamatastudios.com/datasets/ai-requirements-index. Licensed under CC BY 4.0.
 
